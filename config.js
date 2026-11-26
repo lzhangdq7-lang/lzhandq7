@@ -9,13 +9,13 @@ const USER_CONFIG = {
   role:       "Postdoctoral Fellow",
   university: "The Hong Kong University of Science and Technology",
   email:      "lzhangdq@connect.ust.hk",
-  bio:        "Hi! I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), where I work at the intersection of microfluidics, molecular diagnostics, and single-cell analysis. I received my PhD in Bioengineering from HKUST under the supervision of Prof. Shuhuai Yao, and my bachelor's degree from Sun Yat-sen University.\n\n**Research Interests:** Microfluidics, Lab-on-a-chip, Point-of-care Diagnostics, Biosensors and bioelectronics, Single-cell Analysis.",
+  bio:        "Hi! I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), where I work at the intersection of microfluidics, molecular diagnostics, and single-cell analysis. I received my PhD in Bioengineering from HKUST under the supervision of Prof. Shuhuai Yao, and my bachelor's degree from Sun Yat-sen University.<br><br><b>Research Interests:</b> Microfluidics, Lab-on-a-chip, Point-of-care Diagnostics, Biosensors and bioelectronics, Single-cell Analysis.",
   photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
-    { value: "5+",  label: "Publications" },
-    { value: "50+", label: "Citations" },
-    { value: "5+",   label: "Projects" },
+    { value: " 5+ ",  label: "Publications" },
+    { value: " 50+ ", label: "Citations" },
+    { value: " 5+ ",   label: "Projects" },
   ],
 
   links: {
@@ -31,7 +31,7 @@ const USER_CONFIG = {
       title:    "An all-in-one microfluidic system via data-driven design for on-site genotyping of genetically modified foods",
       authors:  "L Zhang, JQ Cui, Z Wu, S Yao",
       venue:    "Biosensors and Bioelectronics",
-      links:    { pdf: "#", code: "https://www.sciencedirect.com/science/article/pii/S0956566326006068" },
+      links:    {link : "https://www.sciencedirect.com/science/article/pii/S0956566326006068" },
       abstract: "A brief summary of your paper's contributions and findings.",
     },
     {
@@ -39,7 +39,7 @@ const USER_CONFIG = {
       title:    "A gravity-driven microfluidic metering system for automation of multiplexed bioassays",
       authors:  "L Zhang, JQ Cui, S Yao",
       venue:    "Lab on a Chip",
-      links:    { pdf: "#", code: "https://pubs.rsc.org/lc/article/25/2/175/853196/A-gravity-driven-microfluidic-metering-system-for" },
+      links:    { link : "https://pubs.rsc.org/lc/article/25/2/175/853196/A-gravity-driven-microfluidic-metering-system-for" },
       abstract: "A brief summary of your paper's contributions and findings.",
     },
   

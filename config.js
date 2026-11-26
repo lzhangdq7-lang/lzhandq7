@@ -35,6 +35,14 @@ const USER_CONFIG = {
       abstract: "A brief summary of your paper's contributions and findings.",
     },
     {
+      year:     2026,
+      title:    "A floss-based platform for native gingival crevicular fluid analysis enables noninvasive systemic and oral health monitoring",
+      authors:  "Y Yan, A Veronica, C Wang, Y Guo, A He, M Gu, L Zhang, G Han, JQ Cui, SV Chandwaney, J Cho, X Wang, SY Pau, SJ Lee, K Deng, S Yao, HYY Nyein",
+      venue:    "Science Advances",
+      links:    {link : "https://www.science.org/doi/abs/10.1126/sciadv.aeg8698?referrer=https%3A%2F%2Fscholar.google.com%2F" },
+      abstract: "A brief summary of your paper's contributions and findings.",
+    },
+    {
       year:     2025,
       title:    "A gravity-driven microfluidic metering system for automation of multiplexed bioassays",
       authors:  "L Zhang, JQ Cui, S Yao",
@@ -42,7 +50,30 @@ const USER_CONFIG = {
       links:    { link : "https://pubs.rsc.org/lc/article/25/2/175/853196/A-gravity-driven-microfluidic-metering-system-for" },
       abstract: "A brief summary of your paper's contributions and findings.",
     },
-  
+    {
+      year:     2025,
+      title:    "High-throughput monoclonal antibody screening from immunized rabbits via droplet microfluidics",
+      authors:  "JQ Cui, R Song, W Song, O Li, X Yuan, H Zhou, L Zhang, S Yao",
+      venue:    "Lab on a Chip",
+      links:    { link : "https://pubs.rsc.org/lc/article/25/14/3482/895288/High-throughput-monoclonal-antibody-screening-from" },
+      abstract: "A brief summary of your paper's contributions and findings.",
+    },
+    {
+      year:     2024,
+      title:    "Concurrently probing the mechanical and electrical characteristics of living cells via an integrated microdevice",
+      authors:  "JQ Cui, Y Tian, Z Wu, L Zhang, WC Cho, S Yao, Y Lin",
+      venue:    "Nano Letters",
+      links:    { link : "https://pubs.acs.org/nalefd/article/24/45/14522/149721" },
+      abstract: "A brief summary of your paper's contributions and findings.",
+    },
+    {
+      year:     2022,
+      title:    "Fish capsules: a system for high‐throughput screening of combinatorial drugs",
+      authors:  "M Tang, X Duan, A Yang, S He, Y Zhou, Y Liu, L Zhang, X Luo, P Shi, H Li, X Lin",
+      venue:    "Advanced Science",
+      links:    { link : "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202104449" },
+      abstract: "A brief summary of your paper's contributions and findings.",
+    },
   ],
 
   projects: [

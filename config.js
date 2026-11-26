@@ -6,7 +6,7 @@
 const USER_CONFIG = {
   name:       "Lu ZHANG",
   initials:   "YN",
-  role:       "PhD Candidate",
+  role:       "Postdoctoral Fellow",
   university: "The Hong Kong University of Science and Technology",
   email:      "lzhangdq@connect.ust.hk",
   bio:        "Hi! I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), where I work at the intersection of microfluidics, molecular diagnostics, and single-cell analysis. I received my PhD in Bioengineering from HKUST under the supervision of Prof. Shuhuai Yao, and my bachelor's degree from Sun Yat-sen University.",

@@ -4,23 +4,23 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 const USER_CONFIG = {
-  name:       "Your Name",
+  name:       "Lu ZHANG",
   initials:   "YN",
   role:       "PhD Candidate",
-  university: "Your University",
-  email:      "your.email@university.edu",
-  bio:        "Exploring the frontiers of your research area, machine learning, and artificial intelligence. Building intelligent systems that advance scientific discovery.",
+  university: "The Hong Kong University of Science and Technology",
+  email:      "lzhangdq@connect.ust.hk",
+  bio:        "Hi! I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), where I work at the intersection of microfluidics, molecular diagnostics, and single-cell analysis. I received my PhD in Bioengineering from HKUST under the supervision of Prof. Shuhuai Yao, and my bachelor's degree from Sun Yat-sen University.",
   photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
-    { value: "10+",  label: "Publications" },
-    { value: "200+", label: "Citations" },
+    { value: "5+",  label: "Publications" },
+    { value: "50+", label: "Citations" },
     { value: "5+",   label: "Projects" },
   ],
 
   links: {
-    scholar: "https://scholar.google.com/",
-    github:  "https://github.com/",
+    scholar: "https://scholar.google.com/citations?user=gW84-YcAAAAJ",
+    linkedin:  "https://github.com/",
     twitter: "",          // leave empty to hide
     cv:      "assets/cv.pdf",
   },
@@ -59,8 +59,8 @@ const USER_CONFIG = {
   ],
 
   education: [
-    { period: "2020–Present", degree: "Ph.D. in Computer Science", institution: "Your University" },
-    { period: "2016–2020",    degree: "B.S. in Computer Science",  institution: "Your University" },
+    { period: "2020–Present", degree: "Ph.D. in Bioengineering", institution: "The Hong Kong University of Science and Technology" },
+    { period: "2018–2022",    degree: "B.S. in Biomedical Engineering",  institution: "Sun Yat-sen University" },
   ],
 
   experience: [

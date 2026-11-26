@@ -9,7 +9,7 @@ const USER_CONFIG = {
   role:       "Postdoctoral Fellow",
   university: "The Hong Kong University of Science and Technology",
   email:      "lzhangdq@connect.ust.hk",
-  bio:        "Hi! I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), where I work at the intersection of microfluidics, molecular diagnostics, and single-cell analysis. I received my PhD in Bioengineering from HKUST under the supervision of Prof. Shuhuai Yao, and my bachelor's degree from Sun Yat-sen University.",
+  bio:        "Hi! I am a Postdoctoral Fellow at The Hong Kong University of Science and Technology (HKUST), where I work at the intersection of microfluidics, molecular diagnostics, and single-cell analysis. I received my PhD in Bioengineering from HKUST under the supervision of Prof. Shuhuai Yao, and my bachelor's degree from Sun Yat-sen University.\n\n**Research Interests:** Microfluidics, Lab-on-a-chip, Point-of-care Diagnostics, Biosensors and bioelectronics, Single-cell Analysis.",
   photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
@@ -20,28 +20,29 @@ const USER_CONFIG = {
 
   links: {
     scholar: "https://scholar.google.com/citations?user=gW84-YcAAAAJ",
-    linkedin:  "https://github.com/",
+    linkedin: "https://www.linkedin.com/in/lu-zhang-2bb465279?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     twitter: "",          // leave empty to hide
     cv:      "assets/cv.pdf",
   },
 
   publications: [
     {
-      year:     2025,
-      title:    "Your Paper Title Here",
-      authors:  "Your Name, Co-Author 1, Co-Author 2",
-      venue:    "Conference / Journal Name 2025",
-      links:    { pdf: "#", code: "#" },
+      year:     2026,
+      title:    "An all-in-one microfluidic system via data-driven design for on-site genotyping of genetically modified foods",
+      authors:  "L Zhang, JQ Cui, Z Wu, S Yao",
+      venue:    "Biosensors and Bioelectronics",
+      links:    { pdf: "#", code: "https://www.sciencedirect.com/science/article/pii/S0956566326006068" },
       abstract: "A brief summary of your paper's contributions and findings.",
     },
     {
-      year:     2024,
-      title:    "Another Paper Title",
-      authors:  "Your Name, Co-Author 1",
-      venue:    "Conference / Journal Name 2024",
-      links:    { pdf: "#" },
-      abstract: "",
+      year:     2025,
+      title:    "A gravity-driven microfluidic metering system for automation of multiplexed bioassays",
+      authors:  "L Zhang, JQ Cui, S Yao",
+      venue:    "Lab on a Chip",
+      links:    { pdf: "#", code: "https://pubs.rsc.org/lc/article/25/2/175/853196/A-gravity-driven-microfluidic-metering-system-for" },
+      abstract: "A brief summary of your paper's contributions and findings.",
     },
+  
   ],
 
   projects: [
@@ -54,8 +55,9 @@ const USER_CONFIG = {
   ],
 
   news: [
-    { date: "2025.01", badge: "New",   text: "Paper accepted at Conference 2025!" },
-    { date: "2024.09", badge: "Award", text: "Received fellowship / award." },
+    { date: "2026.05", badge: "Award", text: "Received HKUST RedBird Academic Excellence Award." },
+    { date: "2025.07", badge: "Award", text: "Received HKUST RedBird Academic Excellence Award." },
+    { date: "2024.06", badge: "Award", text: "Received HKUST RedBird Academic Excellence Award." },
   ],
 
   education: [
